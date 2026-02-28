@@ -71,5 +71,5 @@
 
 &mt {
     tapping-term-ms = <300>; // default is 200. https://zmk.dev/docs/keymaps/behaviors/hold-tap#mod-tap
-    flavor = "tap-preferred";
+    flavor = "balanced";
 };
